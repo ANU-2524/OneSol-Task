@@ -82,7 +82,7 @@ const Hero = () => {
             marginBottom: '24px',
             border: '1px solid rgba(59, 130, 246, 0.2)'
           }}>
-            AI-POWERED RECRUITING
+           
           </span>
           <h1 style={{ 
             fontSize: 'max(48px, 5vw)', 
